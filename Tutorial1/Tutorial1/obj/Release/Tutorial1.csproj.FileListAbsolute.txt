@@ -1,0 +1,9 @@
+C:\Users\Easelmm\Desktop\Other\Tutorial1\Tutorial1\bin\Release\Tutorial1.exe.config
+C:\Users\Easelmm\Desktop\Other\Tutorial1\Tutorial1\bin\Release\Tutorial1.exe
+C:\Users\Easelmm\Desktop\Other\Tutorial1\Tutorial1\bin\Release\Tutorial1.pdb
+C:\Users\Easelmm\Desktop\Other\Tutorial1\Tutorial1\obj\Release\Tutorial1.csprojResolveAssemblyReference.cache
+C:\Users\Easelmm\Desktop\Other\Tutorial1\Tutorial1\obj\Release\Tutorial1.Form1.resources
+C:\Users\Easelmm\Desktop\Other\Tutorial1\Tutorial1\obj\Release\Tutorial1.Properties.Resources.resources
+C:\Users\Easelmm\Desktop\Other\Tutorial1\Tutorial1\obj\Release\Tutorial1.csproj.GenerateResource.Cache
+C:\Users\Easelmm\Desktop\Other\Tutorial1\Tutorial1\obj\Release\Tutorial1.exe
+C:\Users\Easelmm\Desktop\Other\Tutorial1\Tutorial1\obj\Release\Tutorial1.pdb
