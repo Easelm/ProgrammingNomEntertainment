@@ -9,8 +9,8 @@ You are free to take anything, just make sure you view the license and give some
 C#
 
 ##### Links
-[Programming NomEntertainment Channel](https://www.youtube.com/user/ProgrammingNomEnt)
-[Unity Manual](http://docs.unity3d.com/Manual/index.html)
+* [Programming NomEntertainment Channel](https://www.youtube.com/user/ProgrammingNomEnt)
+* [Unity Manual](http://docs.unity3d.com/Manual/index.html)
 
 ##### C# WFA Tutorials
   * Tutorial1 : [C# Form Application - Adding text to Textbox when clicking a button](https://www.youtube.com/watch?v=gk1_3FvbvQY)
