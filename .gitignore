@@ -1,0 +1,10 @@
+obj*/
+bin*/
+x86*/
+.vs*/
+Release*/
+*.suo
+*.csproj.user
+*.pdb
+*.db
+*.cachefile
