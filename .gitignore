@@ -3,6 +3,9 @@ bin*/
 x86*/
 .vs*/
 Release*/
+Library*/
+
+Temp*/
 *.suo
 *.csproj.user
 *.pdb

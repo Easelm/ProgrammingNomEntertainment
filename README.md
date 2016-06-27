@@ -10,10 +10,17 @@ C#
 
 ##### Links
 [Programming NomEntertainment Channel](https://www.youtube.com/user/ProgrammingNomEnt)
+[Unity Manual](http://docs.unity3d.com/Manual/index.html)
 
-##### Tutorials
+##### C# WFA Tutorials
   * Tutorial1 : [C# Form Application - Adding text to Textbox when clicking a button](https://www.youtube.com/watch?v=gk1_3FvbvQY)
   * Tutorial2 : [C# WFA - Referencing two Forms together](https://youtu.be/FqO-ZU7AE0s)
   * Tutorial3 : [C# WFA - Using DirectoryInfo to display Directory Names in a Treeview](https://www.youtube.com/watch?v=moSXOykvVWU)
   * Tutorial4 : [C# WFA - Using DirectoryInfo and FileInfo to display Files in a Treeview](https://www.youtube.com/watch?v=ZRhmTiXGLXc)
   * Tutorial5 : [C# WFA - Creating a Simple Custom File Explorer](https://www.youtube.com/watch?v=M0_Q3rm0TLY)
+  
+##### C# Console Tutorials
+  * ConsoleTutorial1 : [C# Console - Changing Text Color (Foreground Color)](https://www.youtube.com/watch?v=cWwllvdiY5k)
+
+##### C# Unity Tutorials | Unity Tutorials
+  * UnityTutorial1 : [Unity 5 - Basic Canvas Tutorial](https://www.youtube.com/watch?v=U5hfiAqfPK0)
