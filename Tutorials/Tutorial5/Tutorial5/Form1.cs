@@ -13,51 +13,57 @@ namespace Tutorial5
             LoadContents(textBox1.Text);
         }
 
-        private void LoadContents(string directory, bool isNodeClick = false)
+        /// <summary>
+        /// Loads all directories via path in a Treeview
+        /// </summary>
+        /// <param name="path">path of directory to load</param>
+        /// <param name="isNodeClick">Checks to see if this is a Treeview Node double click</param>
+        private void LoadContents(string path, bool isNodeClick = false)
         {
+            // Check if the path is null or empty OR if it is an actual file. If so, return
+            if (string.IsNullOrEmpty(path) || File.Exists(path))
+                return;
+
             treeView1.Nodes.Clear();
 
-            DirectoryInfo directoryInfo = new DirectoryInfo(directory);
-            if (directoryInfo != null)
+            DirectoryInfo directoryInfo = new DirectoryInfo(path);
+            try
             {
-                try
+                foreach (DirectoryInfo dirInfo in directoryInfo?.GetDirectories())
                 {
-                    foreach (DirectoryInfo dirInfo in directoryInfo.GetDirectories())
-                    {
-                        TreeNode node = new TreeNode();
-                        node.Text = dirInfo.FullName;
-                        node.ImageIndex = 1;
-                        node.SelectedImageIndex = 1;
+                    TreeNode node = new TreeNode();
+                    node.Text = dirInfo.FullName;
+                    node.ImageIndex = 1;
+                    node.SelectedImageIndex = 1;
 
-                        if (isNodeClick)
+                    if (isNodeClick)
+                    {
+                        foreach (FileInfo file in dirInfo?.GetFiles())
                         {
-                            foreach (FileInfo file in dirInfo.GetFiles())
-                            {
-                                TreeNode childNode = new TreeNode();
-                                childNode.Text = file.FullName;
-                                childNode.ImageIndex = 0;
-                                childNode.SelectedImageIndex = 0;
-                                node.Nodes.Add(childNode);
-                            }
+                            TreeNode childNode = new TreeNode();
+                            childNode.Text = file.FullName;
+                            childNode.ImageIndex = 0;
+                            childNode.SelectedImageIndex = 0;
+                            node.Nodes.Add(childNode);
                         }
-                        treeView1.Nodes.Add(node);
                     }
-
-                    foreach (FileInfo fileInfo in directoryInfo.GetFiles())
-                    {
-                        TreeNode fileNode = new TreeNode();
-                        fileNode.Text = fileInfo.FullName;
-                        fileNode.ImageIndex = 0;
-                        fileNode.SelectedImageIndex = 0;
-                        treeView1.Nodes.Add(fileNode);
-                    }
+                    treeView1.Nodes.Add(node);
                 }
-                catch (Exception ex)
+
+                foreach (FileInfo fileInfo in directoryInfo?.GetFiles())
                 {
-                    MessageBox.Show(ex.Message);
+                    TreeNode fileNode = new TreeNode();
+                    fileNode.Text = fileInfo.FullName;
+                    fileNode.ImageIndex = 0;
+                    fileNode.SelectedImageIndex = 0;
+                    treeView1.Nodes.Add(fileNode);
                 }
             }
-            textBox1.Text = directory;
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            textBox1.Text = path;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -65,22 +71,15 @@ namespace Tutorial5
             LoadContents(textBox1.Text);
         }
 
-        private void treeview_NodeMouseDoubleClick(object sender, TreeNodeMouseClickEventArgs e)
-        {
-            LoadContents(e.Node.Text, true);
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
             DirectoryInfo directoryInfo = new DirectoryInfo(textBox1.Text);
-            if (directoryInfo != null)
-            {
-                try
-                {
-                    LoadContents(directoryInfo.Parent?.FullName);
-                }
-                catch { }
-            }
+            LoadContents(directoryInfo?.Parent?.FullName);
+        }
+
+        private void treeview_NodeMouseDoubleClick(object sender, TreeNodeMouseClickEventArgs e)
+        {
+            LoadContents(e.Node.Text, true);
         }
     }
 }
