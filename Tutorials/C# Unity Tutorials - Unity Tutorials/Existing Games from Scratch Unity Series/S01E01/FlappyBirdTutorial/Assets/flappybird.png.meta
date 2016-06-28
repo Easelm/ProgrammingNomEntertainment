@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: e0a3440cac1592f45adc178bf6ed9b3c
+timeCreated: 1467092665
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flappybird_0
+    21300002: flappybird_1
+    21300004: flappybird_2
+    21300006: flappybird_3
+    21300008: flappybird_4
+    21300010: flappybird_5
+    21300012: flappybird_6
+    21300014: flappybird_7
+    21300016: flappybird_8
+    21300018: flappybird_9
+    21300020: flappybird_10
+    21300022: flappybird_11
+    21300024: flappybird_12
+    21300026: flappybird_13
+    21300028: flappybird_14
+    21300030: flappybird_15
+    21300032: flappybird_16
+    21300034: flappybird_17
+    21300036: flappybird_18
+    21300038: flappybird_19
+    21300040: flappybird_20
+    21300042: flappybird_21
+    21300044: flappybird_22
+    21300046: flappybird_23
+    21300048: flappybird_24
+    21300050: flappybird_25
+    21300052: flappybird_26
+    21300054: flappybird_27
+    21300056: flappybird_28
+    21300058: flappybird_29
+    21300060: flappybird_30
+    21300062: flappybird_31
+    21300064: flappybird_32
+    21300066: flappybird_33
+    21300068: flappybird_34
+    21300070: flappybird_35
+    21300072: flappybird_36
+    21300074: flappybird_37
+    21300076: flappybird_38
+    21300078: flappybird_39
+    21300080: flappybird_40
+    21300082: flappybird_41
+    21300084: flappybird_42
+    21300086: flappybird_43
+    21300088: flappybird_44
+    21300090: flappybird_45
+    21300092: flappybird_46
+    21300094: flappybird_47
+    21300096: flappybird_48
+    21300098: flappybird_49
+    21300100: flappybird_50
+    21300102: flappybird_51
+    21300104: flappybird_52
+    21300106: flappybird_53
+    21300108: flappybird_54
+    21300110: flappybird_55
+    21300112: flappybird_56
+    21300114: flappybird_57
+    21300116: flappybird_58
+    21300118: flappybird_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flappybird_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144, y: 256}
+        - {x: -144, y: -256}
+        - {x: 144, y: -256}
+        - {x: 144, y: 256}
+    - name: flappybird_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 400
+        width: 308
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -154, y: 56}
+        - {x: -154, y: -56}
+        - {x: 154, y: -56}
+        - {x: 154, y: 56}
+    - name: flappybird_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 242
+        width: 66
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -135}
+        - {x: -29, y: -135}
+        - {x: -29, y: -133}
+        - {x: -31, y: -131}
+        - {x: -33, y: -131}
+      - - {x: -19, y: 135}
+        - {x: -21, y: -111}
+        - {x: -21, y: -135}
+        - {x: 33, y: -135}
+        - {x: 33, y: 135}
+      - - {x: -33, y: -99}
+        - {x: -33, y: -123}
+        - {x: -31, y: -123}
+        - {x: -29, y: -121}
+        - {x: -29, y: -101}
+        - {x: -31, y: -99}
+      - - {x: -33, y: -31}
+        - {x: -33, y: -63}
+        - {x: -23, y: -63}
+        - {x: -21, y: -61}
+        - {x: -21, y: -33}
+        - {x: -23, y: -31}
+      - - {x: -33, y: -25}
+        - {x: -33, y: -31}
+        - {x: -31, y: -31}
+        - {x: -29, y: -29}
+        - {x: -29, y: -27}
+        - {x: -31, y: -25}
+      - - {x: -30, y: -15}
+        - {x: -31, y: -17}
+        - {x: -31, y: -20}
+        - {x: -29, y: -21}
+        - {x: -26, y: -21}
+        - {x: -25, y: -19}
+        - {x: -25, y: -16}
+        - {x: -27, y: -15}
+      - - {x: -33, y: 21}
+        - {x: -33, y: -11}
+        - {x: -23, y: -11}
+        - {x: -21, y: -9}
+        - {x: -21, y: 19}
+        - {x: -23, y: 21}
+      - - {x: -33, y: 135}
+        - {x: -33, y: 21}
+        - {x: -23, y: 21}
+        - {x: -21, y: 23}
+        - {x: -21, y: 135}
+    - name: flappybird_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 270
+        width: 52
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 121}
+        - {x: -26, y: -121}
+        - {x: 26, y: -121}
+        - {x: 26, y: 121}
+    - name: flappybird_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 280
+        width: 226
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113, y: 58}
+        - {x: -113, y: -58}
+        - {x: 113, y: -58}
+        - {x: 113, y: 58}
+    - name: flappybird_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 360
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 368
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 350
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 308
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 316
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 292
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 282
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 244
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 240
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 248
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 256
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 240
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 216
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 224
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 236
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_21
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 194
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -22, y: 18}
+        - {x: -22, y: -15}
+        - {x: -21, y: -16}
+        - {x: -12, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: -18}
+        - {x: 22, y: 18}
+        - {x: 18, y: 22}
+    - name: flappybird_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 218
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 180
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -22, y: 18}
+        - {x: -22, y: -15}
+        - {x: -21, y: -16}
+        - {x: -12, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: -18}
+        - {x: 22, y: 18}
+        - {x: 18, y: 22}
+    - name: flappybird_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 198
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 170
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 198
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 186
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 184
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 192
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_30
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 174
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_31
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: flappybird_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 122
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 22}
+        - {x: -56, y: -20}
+        - {x: -39, y: -22}
+        - {x: 56, y: -22}
+        - {x: 56, y: 18}
+        - {x: 8, y: 22}
+    - name: flappybird_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 128
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 19}
+        - {x: -38, y: -19}
+        - {x: 38, y: -19}
+        - {x: 38, y: 19}
+    - name: flappybird_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 138
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_35
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 146
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_36
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: flappybird_37
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 122
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 96
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 19}
+        - {x: -48, y: -19}
+        - {x: 48, y: -19}
+        - {x: 48, y: 19}
+    - name: flappybird_39
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 86
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 19}
+        - {x: -43, y: -19}
+        - {x: 41, y: -19}
+        - {x: 43, y: -10}
+        - {x: 43, y: 19}
+    - name: flappybird_40
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 90
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_41
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 104
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 104
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_43
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 58
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 72
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_45
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 32
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 19}
+        - {x: -33, y: -19}
+        - {x: 33, y: -19}
+        - {x: 33, y: 15}
+        - {x: 26, y: 19}
+    - name: flappybird_47
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 26
+        width: 102
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 22}
+        - {x: -51, y: -18}
+        - {x: 14, y: -22}
+        - {x: 51, y: -22}
+        - {x: 51, y: 18}
+        - {x: 37, y: 22}
+    - name: flappybird_48
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 10
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -22, y: 18}
+        - {x: -22, y: -15}
+        - {x: -21, y: -16}
+        - {x: -12, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: -18}
+        - {x: 22, y: 18}
+        - {x: 18, y: 22}
+    - name: flappybird_49
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 10
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -22, y: 18}
+        - {x: -22, y: -15}
+        - {x: -21, y: -16}
+        - {x: -12, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: -18}
+        - {x: 22, y: 18}
+        - {x: 18, y: 22}
+    - name: flappybird_50
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_51
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 8
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_53
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_54
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_55
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_57
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_58
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flappybird_59
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
