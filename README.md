@@ -19,8 +19,12 @@ C#
   * Tutorial4 : [C# WFA - Using DirectoryInfo and FileInfo to display Files in a Treeview](https://www.youtube.com/watch?v=ZRhmTiXGLXc)
   * Tutorial5 : [C# WFA - Creating a Simple Custom File Explorer](https://www.youtube.com/watch?v=M0_Q3rm0TLY)
   
+##### C# WFA Tutorials
+  * WpfTutorial1 : [C# WPF - Changing Label Content (Text) Programmatically](https://youtu.be/BVl42dMiDSM)
+  
 ##### C# Console Tutorials
   * ConsoleTutorial1 : [C# Console - Changing Text Color (Foreground Color)](https://www.youtube.com/watch?v=cWwllvdiY5k)
 
 ##### C# Unity Tutorials | Unity Tutorials
   * UnityTutorial1 : [Unity 5 - Basic Canvas Tutorial](https://www.youtube.com/watch?v=U5hfiAqfPK0)
+  * UnityTutorial2 : [Unity 5 - Make your 2D Character Jump Ground Collision check included](https://youtu.be/p0fTB-o5lvA)
