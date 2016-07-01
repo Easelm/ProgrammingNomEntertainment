@@ -3,7 +3,7 @@
 ##### About
 Programming Nom. Entertainment is a Youtube tutorial channel that help people find what they are looking for. If you cannot find something that you want, suggest it! We aren't almighty when it comes down to programming, but we know a thing or two. This repo will hold many tutorial projects for easy access when users want the source(s). We can also work together to make some tutorial sources much better!
 
-You are free to take anything, just make sure you view the license and give some credits and/or link our channel!
+You are free to take anything, just make sure you view the license, give credits and share our channel!
 
 ##### Programming Languages
 C#
