@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTutorial8.CSharp", "UnityTutorial8.CSharp.csproj", "{DAD8E13F-2E6F-037C-1D20-AE067C66911D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD8E13F-2E6F-037C-1D20-AE067C66911D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD8E13F-2E6F-037C-1D20-AE067C66911D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD8E13F-2E6F-037C-1D20-AE067C66911D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD8E13F-2E6F-037C-1D20-AE067C66911D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

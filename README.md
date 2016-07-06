@@ -32,3 +32,5 @@ C#
   * UnityTutorial4 : [Unity 5 - GameObject and UI Mouse Events](https://www.youtube.com/watch?v=WJO0HcGDzj0)
   * UnityTutorial5 : [Unity 5 - 2D W, A, S, D Basic Sprite Movement Tutorial](https://www.youtube.com/watch?v=ufkQGGCjBNw)
   * UnityTutorial6 : [Unity 5 - 2D Basic Player Shoot Projectile Tutorial](https://www.youtube.com/watch?v=aSXGILlUKvI)
+  * UnityTutorial7 : [Unity 5 - 2D Enemy Collision Tutorial](https://www.youtube.com/watch?v=8zcKaxMq-0c)
+  * UnityTutorial8 : [Unity 5 - 2D Player and Enemy Health Tutorial](https://www.youtube.com/watch?v=u-uuW-0afaw)
