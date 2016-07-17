@@ -37,3 +37,5 @@ C#
   * UnityTutorial9 : [Unity 5 - Basic Coroutine Tutorial](https://youtu.be/DuB8Oz0qWJo)
   * UnityTutorial10 : [Unity 5 - Creating a Simple 2D Space Shooter-like Game](https://youtu.be/tQD9Gvuj5jE)
   * UnityTutorial11 : [Unity 5 - Simple Player Scoring Tutorial](https://www.youtube.com/watch?v=W7lhLyuA9yc)
+  * UnityTutorial12 : [Unity 5 - Setup Canvas Button Click Event](https://youtu.be/8iipvfopK7s)
+  * UnityTutorial13 : [Unity 5 - Simple Player Shoot Sound Tutorial](https://youtu.be/skyMIgDKhGw)
