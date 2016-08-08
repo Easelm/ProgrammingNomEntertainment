@@ -1,0 +1,46 @@
+- UI
+-- Main Menu
+  "SweatShop"
+--- New Game
+--- Load Game
+--- Options
+---- Okay, Save, Quit
+
+-- Gameplay UI
+First starting a new game will prompt us with a Tutorial with Goals
+ - Goal 1
+ - Goal 2
+ - Goal 3
+ 
+-- ESC Menu
+--- RESOLUTION
+--- SOUND
+--- Okay, Save, Quit
+
+-- Bottom
+--- Money #
+--- Max 5/10
+--- Station #
+--- Desks #
+--- Walkers #
+--- Time #
+
+-- Right
+--- Desk (separate from scrollbar)
+--- Scroll Bar
+---- Worker/Upgrades
+---- Worker
+---- Upgrade 1
+---- Upgrade 2
+---- Upgrade 3
+---- Extra Worker (Upgrade 4)
+
+- Mechanics
+-- Gameplay
+--- Random Bonus Cat (+6 per 1 material)
+--- Any purchases will reduce money
+--- Click Station (station stays selected)
+--- While Station is selected allow worker to be purchased if enough money
+--- While station is selected and can be upgraded, allow upgrade in order
+--- If worker fills station box will appear and the worker will fall to sleep until materials are picked up
+ 
