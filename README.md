@@ -43,3 +43,4 @@ C#
   * UnityTutorial15 : [Unity 5 - Simple Parent and Child Tutorial](https://www.youtube.com/watch?v=jGh_kxL2R2s)
   * UnityTutorial16 : [Unity 5 - Simple Game Save and Load](https://youtu.be/sY1GAFQMjw4)
   * UnityTutorial17 : No source. Just an empty 2D Unity project.
+  * UnityTutorial17 : [Unity 5 - Input Action Progress (Tap a key repeatedly to do an action)](https://www.youtube.com/watch?v=-Be27Q-safo)
